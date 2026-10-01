@@ -8,10 +8,4 @@ public class Script1 : MonoBehaviour
     {
         Debug.Log("Script tarea 1.1");
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
